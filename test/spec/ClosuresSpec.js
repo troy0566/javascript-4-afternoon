@@ -82,7 +82,8 @@ describe('closures', function () {
 				'Brett Caudill',
 				'Jessica Hathaway',
 				'Breiden Busch',
-				'Brian Kemper'
+				'Brian Kemper',
+				'Billy Bob'
 			];
 
 			var thisName = names[Math.floor(Math.random() * names.length)].split(" ");
